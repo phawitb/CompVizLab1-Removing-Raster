@@ -1,0 +1,1 @@
+# CompVizLab1-Removing-Raster
